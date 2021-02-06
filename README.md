@@ -1,5 +1,6 @@
 # AsRock-H410M-OpenCore
 [![GitHub version](https://img.shields.io/badge/OpenCore-0.6.6-brightgreen)](https://github.com/acidanthera/OpenCorePkg)
+
 This is the files and configuration for setting up the AsRock H410M desktop using OpenCore.
 
 OpenCore EFI file and Shell included. Basically you could just download, copy, paste, modify few things, and use.
