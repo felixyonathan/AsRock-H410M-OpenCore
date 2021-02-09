@@ -15,18 +15,17 @@ I use MacOS primarily for music works.
 - Please take care of your own MLB, Serial Number, and UUID.
 
 **Few Highlights**
-- CPU Profile set to mostly High Performance, since my CPU and GPU temp never really exceed 80℃ (full load).
-- No bluetooth, no built-in wi-fi. I am using a TP-Link USB Wi-fi dongle.
+- CPU Profile set to mostly High Performance (CPUFriend), since my CPU and GPU temp never really exceed 80℃ (full load).
+- No bluetooth, wi-fi using TP-Link USB dongle.
 - No FileVault.
-- iServices works.
+- iServices works (I only checked iMessage using an iPhone 5S).
 - USB Mapped. If you plan to clone this repo, make sure you USB Map again.
+- Shutdown is working normally.
 
 **BIOS Settings**
-- Just follow the guide on Dortania's.
+- Just follow the guide at Dortania.
 
 **Limitations**
-- Shutdown is working normally.
-- I don't check things like Continuity, since I don't own an iDevice and use bluetooth (planning to buy one though).
-- Remember to check  https://dortania.github.io/OpenCore-Post-Install/
+- I don't check things like Continuity, since I do not use bluetooth (not planning to fix).
 
 **BENCHMARK: SIMILAR TO SYSTEMS WITH SIMILAR SPECS. DO NOT BOTHER TO DO.**
